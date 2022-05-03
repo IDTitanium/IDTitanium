@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Idris (@IDTitanium)
 - 👀 I’m interested in backend technologies and distributed systems
 - 🌱 I’m currently learning Golang!
-- 💞️ I’m looking to collaborate on impactful projects.
+- 💞️ I’m looking to collaborate on golang / PHP projects.
 - 📫 You can reach me via Email at idriseun222@gmail.com or on twitter (@id_titanium)
 
 <!---
