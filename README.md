@@ -5,7 +5,9 @@
 - 📫 You can reach me via Email at idriseun222@gmail.com or on twitter (@id_titanium)
 
 
-[![Idris's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDTitanium)](https://github.com/IDTitanium/github-readme-stats)
+[![Idris's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDTitanium&count_private=true&show_icons=true&theme=radical)](https://github.com/IDTitanium/github-readme-stats)
+
+[![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=IDTitanium&layout=compact)](https://github.com/IDTitanium/github-readme-stats)
 
 <!---
 IDTitanium/IDTitanium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
