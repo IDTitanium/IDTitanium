@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Golang / Nodejs projects.
 - 📫 You can reach me via Email at idriseun222@gmail.com or on twitter (@id_titanium)
 
+
+[![Idris's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDTitanium)](https://github.com/IDTitanium/github-readme-stats)
+
 <!---
 IDTitanium/IDTitanium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
