@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Golang!
 - 💞️ I’m looking to collaborate on PHP/ Golang / Nodejs projects.
 - 📫 You can reach me via Email at idriseun222@gmail.com or on twitter (@id_titanium)
+- What fun stuff do you have for me today?
 
 
 [![Idris's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDTitanium&count_private=true&show_icons=true&theme=radical)](https://github.com/IDTitanium/github-readme-stats)
